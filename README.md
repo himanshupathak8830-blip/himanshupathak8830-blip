@@ -1,30 +1,25 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Himanshu Pathak
 
-<img align="right" alt="AI Data Analyst" width="380" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="right" alt="AI Data Analyst" width="340" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst & AI Automation Enthusiast** focused on transforming raw data into actionable business insights, intelligent dashboards, and automated AI-driven workflows.
+📊 Data Analyst passionate about transforming raw data into meaningful business insights.  
 
-I enjoy solving real-world business problems using **Data Analytics, Artificial Intelligence, Automation, and Visualization Tools**.
+🤖 Building AI-powered automation workflows using modern AI tools & analytics platforms.  
 
-### 💡 What I Do
-- 📊 Build interactive dashboards & KPI reports
-- 🤖 Create AI-powered automation workflows
-- 📈 Analyze business data for actionable insights
-- ⚡ Automate repetitive business operations
-- 🧹 Perform data cleaning & transformation
-- 🔥 Develop real-world analytics projects
+⚡ Skilled in Power BI, PostgreSQL, Python, Dashboard Development & Workflow Automation.  
 
-### 🌱 Currently Exploring
-- AI Agents & Automation
-- n8n Workflow Automation
-- Advanced Power BI & DAX
-- Machine Learning & Predictive Analytics
-- AI Productivity Tools & Integrations
+🌱 Currently exploring AI Agents, n8n Automation & Machine Learning.  
 
-### ⚡ Fun Fact
-I love combining **Data + AI + Automation** to build smart systems that improve business efficiency and save time.
+💡 I enjoy combining **Data + AI + Automation** to solve real-world business problems.
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
 ---
 
@@ -151,4 +146,4 @@ Developed workforce analytics dashboards and employee insights systems.
 
 # 🚀 Let's Build Something Amazing Together!
 
-⭐ Feel free to connect with me for Data Analytics, AI Automation, Dashboard Development & Real-world Data Projects..
+⭐ Feel free to connect with me for Data Analytics, AI Automation, Dashboard Development & Real-world Data Projects.
