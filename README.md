@@ -91,16 +91,16 @@
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HimanshuPathak8830&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuPathak8830&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=himanshupathak8830&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupathak8830&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
 
-# 🎵 Coding Vibes
+# 🎮 Pacman Contribution Graph
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph"/>
 </p>
 
 ---
