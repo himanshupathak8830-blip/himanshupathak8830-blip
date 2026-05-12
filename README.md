@@ -1,25 +1,18 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Himanshu Pathak
+# Hey, I'm Himanshu Pathak
 
 <img align="right" alt="AI Data Analyst" width="340" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ## 🚀 About Me
 
-📊 Data Analyst passionate about transforming raw data into meaningful business insights.  
+📊 Passionate Data Analyst focused on transforming raw data into meaningful business insights.  
 
-🤖 Building AI-powered automation workflows using modern AI tools & analytics platforms.  
+🤖 Building AI-powered automation workflows using modern analytics & AI tools.  
 
-⚡ Skilled in Power BI, PostgreSQL, Python, Dashboard Development & Workflow Automation.  
+⚡ Skilled in Dashboard Development, PostgreSQL, Power BI, Python & Workflow Automation.  
 
-🌱 Currently exploring AI Agents, n8n Automation & Machine Learning.  
+🌱 Currently exploring AI Agents, Machine Learning & n8n Automation.  
 
 💡 I enjoy combining **Data + AI + Automation** to solve real-world business problems.
-
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</p>
 
 ---
 
@@ -75,24 +68,11 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-## 💻 Vibe Coding & Development Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -108,25 +88,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-### 📊 Power BI Sales Dashboard
-Interactive KPI dashboard with revenue tracking and business insights.
-
-### 🤖 AI Automation Workflows
-Built AI-powered automation systems using n8n and modern AI tools.
-
-### 📈 Financial Analytics Dashboard
-Created dashboards for financial reporting and profit/loss analysis.
-
-### 🧹 Data Cleaning & Analysis Projects
-Performed EDA, data transformation, and visualization using Python.
-
-### 📊 HR Analytics Dashboard
-Developed workforce analytics dashboards and employee insights systems.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -136,10 +97,10 @@ Developed workforce analytics dashboards and employee insights systems.
 
 ---
 
-# 🐍 Contribution Snake
+# 🎵 Coding Vibes
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
