@@ -1,32 +1,50 @@
-# 💫 About Me:
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Himanshu Pathak
 
-<img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M2eDB1c2JzY2F4dG5qa3A2eW1qMmQxMm9wNjZtbDVjNmM4eW5zZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="AI Data Analyst" width="380" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-🔭 **Currently Working On:**  
-Building real-world Data Analytics projects using Power BI, SQL, Python, AI Tools & Automation
+## 🚀 About Me
 
-👯 **Looking to Collaborate On:**  
-Dashboard Development, Business Intelligence Projects & Data Automation Solutions
+I'm a passionate **Data Analyst & AI Automation Enthusiast** who loves transforming raw data into powerful business insights, interactive dashboards, and intelligent automated workflows.
 
-🤝 **Seeking Help With:**  
-Advanced Analytics, AI Workflow Automation & scalable data systems
+I work with modern analytics and AI tools to solve real-world business problems through **Data Analytics, Visualization, AI Integration, and Workflow Automation**.
 
-🌱 **Currently Learning:**  
-n8n Automation, AI Agents, Workflow Integration & AI Productivity Tools
+### 💡 What I Do
+- 📊 Build interactive dashboards & KPI reports
+- 🤖 Create AI-powered automation workflows
+- 📈 Analyze data to uncover business insights
+- ⚡ Automate repetitive business operations
+- 🧹 Clean & transform raw datasets
+- 🔥 Develop real-world analytics projects
 
-💬 **Ask Me About:**  
-Power BI, SQL, Python, Data Cleaning, Dashboard Design & Analytics Projects
+### 🌱 Currently Learning
+- AI Agents & AI Automation
+- n8n Workflow Automation
+- Advanced Power BI & DAX
+- Machine Learning & Predictive Analytics
+- AI Productivity Tools & Integrations
 
-⚡ **Fun Fact:**  
-I enjoy converting raw data into actionable business insights and automating repetitive tasks.
+### ⚡ Fun Fact
+I enjoy combining **Data + AI + Automation** to build smart systems that save time and improve business efficiency.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-pathak-33680b340)
+<p align="left">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu.data.acc@gmail.com)
+<a href="https://www.linkedin.com/in/himanshu-pathak-33680b340" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:himanshu.data.acc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://himanshupathak8830-blip.github.io/My-portfolio-website/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -34,77 +52,88 @@ I enjoy converting raw data into actionable business insights and automating rep
 
 ## 📊 Data Analytics & Visualization
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
 ## 🤖 Programming & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
 
 ---
 
 ## ⚡ AI Tools & Automation
 
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Frontend & Development Tools
+## 🌐 Frontend & Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-🔹 Sales Dashboard using Power BI  
-🔹 Customer Churn Analysis using Python & ML  
-🔹 HR Analytics Dashboard  
-🔹 AI Automation Workflows using n8n  
-🔹 Financial Analytics Dashboard  
-🔹 Google Sheets Automation Projects
+### 📊 Power BI Sales Dashboard
+Interactive dashboard with KPI tracking, revenue analysis, and business insights.
+
+### 🤖 AI Automation Workflows
+Built automation systems using n8n and AI tools for workflow optimization.
+
+### 📈 Financial Analytics Dashboard
+Created financial dashboards for profit/loss analysis and reporting.
+
+### 🧹 Data Cleaning & Analysis Projects
+Performed data transformation, EDA, and visualization using Python & SQL.
+
+### 📊 HR Analytics Dashboard
+Developed HR dashboards for employee insights and workforce analysis.
 
 ---
 
-# ✍️ Dev Quote
+# 📈 GitHub Stats
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuPathak8830&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuPathak8830&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-# 👀 Profile Visitors
+# 🐍 Contribution Snake
 
-![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 🚀 Let's Build Something Amazing Together!
+
+⭐ If you like my work, feel free to connect and collaborate on exciting Data Analytics & AI projects.
