@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://himanshupathak8830-blip.github.io/My-portfolio-himanshu/](https://my-portfolio-himanshu-hune.vercel.app/)" target="_blank">
+<a href="https://my-portfolio-himanshu.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -88,6 +88,32 @@
 
 ---
 
+# 📌 Featured Projects
+
+## 📊 Financial Analytics Dashboard
+✔ Profit & Loss Analysis  
+✔ Budget vs Actual Tracking  
+✔ KPI Monitoring Dashboard  
+✔ Built using Power BI & Excel  
+
+---
+
+## 🤖 AI Automation Workflows
+✔ Built automated workflows using n8n  
+✔ AI-powered business process automation  
+✔ Integrated APIs & AI tools  
+✔ Automated repetitive manual tasks  
+
+---
+
+## 🌐 Web Scraping & Data Extraction
+✔ Extracted startup/company data  
+✔ Automated data collection using Python  
+✔ Used Selenium & BeautifulSoup  
+✔ Data cleaning & transformation pipelines  
+
+---
+
 # 🎮 Pacman Contribution Graph
 
 <p align="center">
@@ -96,6 +122,24 @@
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshupathak8830-blip&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupathak8830-blip&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🚀 Let's Build Something Amazing Together!
 
 ⭐ Feel free to connect with me for Data Analytics, AI Automation, Dashboard Development & Real-world Data Projects.
+
+🌐 Portfolio:  
+👉 https://my-portfolio-himanshu.vercel.app/
+
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/himanshu-pathak-33680b340
